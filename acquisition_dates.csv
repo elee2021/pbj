@@ -1,0 +1,232 @@
+provnum,facilityid,facility,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day
+056360,1,Arbor Glen,2001-02-01,California,Touchstone 2.0,The Tough Ones,2001,2,1
+465072,3,City Creek SNF UPL Total,2006-09-01,Summit,Milestone North,Seal Team4,2006,9,1
+055505,4,Arroyo Vista,2003-10-01,California,SD United,AFC Cluster,2003,10,1
+065321,5,Arvada,2009-02-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2009,2,1
+055744,6,Atlantic,2002-07-01,California,Momentum,GOAT,2002,7,1
+056014,7,Brookfield,2003-06-01,California,Momentum,LTD,2003,6,1
+056372,8,Brookside,2003-08-02,California,Touchstone 2.0,The Empire,2003,8,2
+555770,10,Camarillo,2005-08-20,California,NC Islanders,NC Islanders Cluster,2005,8,20
+675901,11,Cambridge SNF UPL Total,2006-09-01,Texas,Keystone East,Igniters,2006,9,1
+555326,13,Carmel Mountain Total,2006-03-01,California,SD United,AFC Cluster,2006,3,1
+675972,14,Carrollton UPL Total,2006-12-01,Texas,Keystone North Texas,Prestige WorldWide,2006,12,1
+035190,15,Catalina,2003-05-16,Arizona,Bandera Tucson,Sonoran Dogs,2003,5,16
+055394,17,Claremont,2003-10-01,California,Touchstone 2.0,The Empire,2003,10,1
+055756,18,Cloverdale,2001-11-15,California,Flagstone No Cal,Northern California,2001,11,15
+035132,19,Coronado,2003-09-01,Arizona,Bandera Phoenix West,Apollo,2003,9,1
+035092,21,Bella Vita,2002-04-02,Arizona,Bandera Phoenix West,Apollo,2002,4,2
+035014,22,Desert Terrace,2002-04-01,Arizona,Bandera Phoenix West,Real Cobra Kai,2002,4,1
+465091,23,Draper SNF UPL Total,2007-07-16,Summit,Milestone North,Kings Peak,2007,7,16
+035135,24,Montecito,2003-09-01,Arizona,Bandera Phoenix East,Supersition,2003,9,1
+505434,25,Lynnwood Post Acute,2006-06-01,Summit,Pennant Washington,PNW,2006,6,1
+555458,26,Glenwood,2003-11-01,California,NC Islanders,NC Islanders Cluster,2003,11,1
+035088,28,Camelback,2000-05-01,Arizona,Bandera Phoenix West,Real Cobra Kai,2000,5,1
+465109,29,Holladay SNF UPL Total,2007-02-01,Summit,Milestone North,Seal Team4,2007,2,1
+065322,30,Julia Temple,2009-02-01,MidWest,Endura Market,Mile High Crush,2009,2,1
+675560,31,Lake Village UPL Total,2007-03-01,Texas,Keystone North Texas,Prestige WorldWide,2007,3,1
+055182,32,Lemon Grove,2003-06-01,California,SD United,Top Gun Cluster,2003,6,1
+065320,33,Littleton,2009-02-01,MidWest,Endura Market,Mile High Crush,2009,2,1
+555796,34,Mission Care,2005-05-06,California,Touchstone 2.0,The Tough Ones,2005,5,6
+465069,35,Mt Ogden SNF UPL Total,2006-07-01,Summit,Milestone North,Positive Deviants,2006,7,1
+035087,36,North Mountain,2004-08-01,Arizona,Bandera Phoenix West,Apollo,2004,8,1
+056215,37,Northbrook,2001-11-15,California,Flagstone No Cal,Northern California,2001,11,15
+455934,38,Northern Oaks UPL Total,2000-01-01,Texas,Keystone West,Fire Starters Cluster,2000,1,1
+465104,39,Orem SNF UPL Total,2008-05-01,Summit,Sunstone Market,Sunstone Central Cluster,2008,5,1
+035076,40,Osborn,2006-11-01,Arizona,Bandera Phoenix East,Papago,2006,11,1
+505081,41,Pacific Care,2006-08-01,Summit,Pennant Washington,Yeti,2006,8,1
+555257,42,Palm Terrace,2004-11-01,California,Momentum,LTD,2004,11,1
+055067,43,Palomar Vista,2003-07-01,California,SD United,Top Gun Cluster,2003,7,1
+056337,44,Panorama Gardens,2000-09-01,California,Touchstone 2.0,The Tough Ones,2000,9,1
+465100,45,Paramount SNF UPL Total,2008-12-01,Summit,Milestone North,Seal Team4,2008,12,1
+035174,46,Park Avenue,2003-09-01,Arizona,Bandera Tucson,Luchadors,2003,9,1
+505074,47,Park Manor,2000-03-01,Summit,Pennant Washington,Sasquatch,2000,3,1
+056411,48,Park View,2001-04-01,California,Flagstone No Cal,Northern California,2001,4,1
+555613,50,The Grove SNF,2009-01-16,California,Touchstone 2.0,The Empire,2009,1,16
+135011,51,Gateway TCC,2006-10-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2006,10,1
+056328,52,Premier Care,2001-11-15,California,Touchstone 2.0,The Empire,2001,11,15
+056104,53,Rose Villa,2003-06-01,California,Momentum,LTD,2003,6,1
+055706,54,The Orchard,2000-07-01,California,Momentum,Alpha,2000,7,1
+035151,55,Sabino Canyon,2000-11-16,Arizona,Bandera Tucson,Sonoran Dogs,2000,11,16
+455754,56,Northeast,1999-09-01,Texas,South Central Keystone,Missions,1999,9,1
+555249,58,Sea Cliff,2003-09-01,California,Momentum,LTD,2003,9,1
+055353,59,Shoreline,2002-07-01,California,Momentum,GOAT,2002,7,1
+055987,60,Broadway Villa,2001-11-15,California,Flagstone No Cal,Northern California,2001,11,15
+555070,61,Southland Care,1999-12-01,California,Momentum,Alpha,1999,12,1
+675962,63,Southland Lufkin UPL Total,2009-01-01,Texas,Keystone East,Dominators,2009,1,1
+056364,64,Summerfield,2000-07-01,California,Flagstone No Cal,Northern California,2000,7,1
+675689,65,Village Care,1999-09-01,Texas,South Central Keystone,Los Bandidos,1999,9,1
+455745,66,Timberwood UPL Total,2006-05-01,Texas,Keystone East,Dominators,2006,5,1
+055734,67,Ukiah,2002-01-01,California,Flagstone No Cal,Northern California,2002,1,1
+055374,68,Upland Total,2005-08-06,California,Touchstone 2.0,The Tough Ones,2005,8,6
+555478,69,Victoria Ventura,2003-11-01,California,NC Islanders,NC Islanders Cluster,2003,11,1
+055237,70,Victoria CM,2003-07-01,California,Momentum,LTD,2003,7,1
+555425,71,Vista Knoll,2003-10-01,California,SD United,Top Gun Cluster,2003,10,1
+455637,72,Wellington Rehab UPL Total,1999-09-01,Texas,Keystone North Central,The Alphas,1999,9,1
+055430,73,Whittier Hills,2000-07-01,California,Momentum,Alpha,2000,7,1
+675272,74,Willow Bend UPL Total,2007-03-01,Texas,Keystone North Texas,C3,2007,3,1
+675081,76,Golden Acres UPL Total,2009-10-01,Texas,Keystone North Texas,TNT,2009,10,1
+455625,77,Alta Vista,2009-12-01,Texas,South Central Keystone,Los Vaqueros,2009,12,1
+455925,78,Veranda UPL Total,2009-12-01,Texas,South Central Keystone,Los Vaqueros,2009,12,1
+455586,79,Grand Terrace,2009-12-01,Texas,South Central Keystone,Los Bandidos,2009,12,1
+675111,80,Heritage Gardens UPL Total,2010-05-01,Texas,Keystone North Texas,Prestige WorldWide,2010,5,1
+465119,82,Provo SNF UPL Total,2009-10-01,Summit,Sunstone Market,Sunstone North Cluster,2009,10,1
+465108,83,Copper Ridge SNF UPL Total,2009-10-01,Summit,Milestone North,Kings Peak,2009,10,1
+465098,84,Pinnacle SNF UPL Total,2009-10-01,Summit,Sunstone Market,Sunstone Central Cluster,2009,10,1
+135068,85,Parke View,2010-01-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2010,1,1
+135020,86,River's Edge,2010-01-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2010,1,1
+035245,87,Sunview,2009-12-01,Arizona,Bandera Phoenix West,Mamba Mentality,2009,12,1
+675593,88,Wisteria SNF UPL Total,2011-01-01,Texas,Keystone West,Fire Starters Cluster,2011,1,1
+465095,90,St. Joseph SNF UPL Total,2011-02-01,Summit,Milestone North,Kings Peak,2011,2,1
+285183,98,Colonial Manor Total,2011-07-18,MidWest,Nebraska Market,Thrive or Die Cluster,2011,7,18
+285130,100,Beatrice,2011-07-18,MidWest,Nebraska Market,Breakthrough Cluster,2011,7,18
+285055,101,Careage Estates Falls City,2011-07-18,MidWest,Nebraska Market,Breakthrough Cluster,2011,7,18
+285135,102,Careage Wayne Total,2011-07-18,MidWest,Nebraska Market,Thrive or Die Cluster,2011,7,18
+165428,104,Careage Hills,2011-07-18,MidWest,Heartstone Market,Twisted Sisters Cluster,2011,7,18
+165444,105,West Bend Total,2011-07-18,MidWest,Heartstone Market,Twisted Sisters Cluster,2011,7,18
+165245,107,Hillcrest Total,2011-07-18,MidWest,Heartstone Market,Twisted Sisters Cluster,2011,7,18
+165362,109,Careage Clarion,2011-07-18,MidWest,Heartstone Market,Iowa Storm Cluster,2011,7,18
+165156,110,Fort Dodge Health and Rehab,2011-07-18,MidWest,Heartstone Market,Iowa Storm Cluster,2011,7,18
+465101,111,Hurricane SNF UPL Total,2011-08-01,Summit,Sunstone Market,Sunstone South Cluster,2011,8,1
+555739,113,La Jolla The Springs,2011-10-01,California,SD United,AFC Cluster,2011,10,1
+675743,114,The Phoenix Post-Acute UPL Total,2011-08-01,Texas,Keystone East,Igniters,2011,8,1
+295020,115,Rosewood,2011-12-01,Summit,Pennant Idaho Nevada,Lady Luck Cluster,2011,12,1
+135018,118,Monte Vista,2012-03-01,Summit,Pennant Idaho Nevada,Illuminati Cluster,2012,3,1
+676190,119,Stillhouse Rehab UPL Total,2012-06-01,Texas,Keystone North Texas,C3,2012,6,1
+135129,121,Discovery Total,2012-08-01,Summit,Pennant Idaho Nevada,Illuminati Cluster,2012,8,1
+135087,122,Owyhee,2012-08-01,Summit,Pennant Idaho Nevada,Lady Luck Cluster,2012,8,1
+455576,123,Richland Hills UPL Total,2012-12-17,Texas,Keystone West,Cobra Kai Cluster,2012,12,17
+065404,124,Sloan Lake,2013-01-01,MidWest,Endura Market,Mile High Crush,2013,1,1
+676010,126,Legacy UPL Total,2013-03-01,Texas,Keystone West,Relentless Cluster,2013,3,1
+675651,128,San Marcos Rehab UPL Total,2013-04-01,Texas,Keystone North Central,United,2013,4,1
+675766,129,The Courtyard UPL Total,2013-04-01,Texas,Keystone East,Igniters,2013,4,1
+285240,130,Omaha,2013-05-01,MidWest,Nebraska Market,Thrive or Die Cluster,2013,5,1
+505181,131,Redmond,2013-05-01,Summit,Pennant Washington,PNW,2013,5,1
+505407,135,Mountain View,2013-07-01,Summit,Pennant Washington,PNW,2013,7,1
+035159,136,Horizon Post,2014-03-01,Arizona,Bandera Phoenix West,Apollo,2014,3,1
+505294,137,Beacon Hill,2014-06-01,Summit,Pennant Washington,Yeti,2014,6,1
+035070,140,Casas Adobes,2014-05-01,Arizona,Bandera Tucson,Luchadors,2014,5,1
+505304,141,Rainier Total,2014-06-01,Summit,Pennant Washington,Sasquatch,2014,6,1
+525497,142,The Pines Post Acute and Memory Care,2014-06-01,MidWest,Wisconsin Market,Gateway WI,2014,6,1
+525348,143,Greentree,2014-06-01,MidWest,Wisconsin Market,Gateway WI,2014,6,1
+065077,144,Englewood,2014-06-01,MidWest,Endura Market,Southern Peaks,2014,6,1
+055632,150,Grossmont,2014-12-01,California,SD United,Beacon,2014,12,1
+055890,152,Magnolia,2014-12-01,California,SD United,Top Gun Cluster,2014,12,1
+056401,153,Mission Hills,2014-12-01,California,SD United,AFC Cluster,2014,12,1
+555596,154,Parkside,2014-12-01,California,SD United,Beacon,2014,12,1
+555871,155,Somerset,2014-12-01,California,SD United,Beacon,2014,12,1
+555873,156,South Bay,2014-12-01,California,SD United,Beacon,2014,12,1
+555545,157,The Cove,2014-12-01,California,SD United,Beacon,2014,12,1
+555804,158,Victoria Post Acute,2014-12-01,California,SD United,AFC Cluster,2014,12,1
+675925,159,Garrison Care UPL Total,2015-01-01,Texas,Keystone West,Relentless Cluster,2015,1,1
+065100,161,Rock Canyon Total,2015-01-01,MidWest,Endura Market,Southern Peaks,2015,1,1
+675645,163,Mesa Springs UPL Total,2015-02-01,Texas,Keystone West,Fire Starters Cluster,2015,2,1
+285238,164,Keystone Ridge Post Acute Nursing and Rehab,2015-02-01,MidWest,Nebraska Market,Breakthrough Cluster,2015,2,1
+465160,181,Coral Desert,2015-04-01,Summit,Sunstone Market,Sunstone South Cluster,2015,4,1
+505243,182,Olympia,2015-07-01,Summit,Pennant Washington,Yeti,2015,7,1
+505325,183,Bainbridge,2015-05-01,Summit,Pennant Washington,Sasquatch,2015,5,1
+465064,184,St. George SNF UPL Total,2015-05-01,Summit,Sunstone Market,Sunstone South Cluster,2015,5,1
+465009,185,Harrison Pointe SNF UPL Total,2015-05-01,Summit,Milestone North,Positive Deviants,2015,5,1
+035103,186,Citadel SNF,2015-07-01,Arizona,Bandera Phoenix East,San Tan,2015,7,1
+035189,187,La Canada,2015-07-01,Arizona,Bandera Tucson,Luchadors,2015,7,1
+035131,188,Granite Creek,2015-07-01,Arizona,Bandera Phoenix West,Mamba Mentality,2015,7,1
+035232,189,Mountain View CC,2015-07-01,Arizona,Bandera Tucson,Luchadors,2015,7,1
+035083,190,Heritage Court,2015-07-01,Arizona,Bandera Phoenix East,Supersition,2015,7,1
+035111,191,Lake Pleasant,2015-07-01,Arizona,Bandera Phoenix West,Mamba Mentality,2015,7,1
+035241,192,South Mountain,2015-07-01,Arizona,Bandera Phoenix West,Real Cobra Kai,2015,7,1
+175550,215,Shawnee PARC Total,2015-11-17,MidWest,Emerald Healthcare Market,The Rainmakers Cluster,2015,11,17
+676395,216,HCR Plano Total,2016-05-12,Texas,Keystone North Texas,Prestige WorldWide,2016,5,12
+175551,217,HCR Olathe Total,2016-01-01,MidWest,Emerald Healthcare Market,Royals Cluster,2016,1,1
+175548,218,HCR Kansas City Total,2015-10-05,MidWest,Emerald Healthcare Market,The Rainmakers Cluster,2015,10,5
+035101,224,Chandler Post Acute,2015-11-01,Arizona,Bandera Phoenix East,Supersition,2015,11,1
+035105,225,Shea Post Acute,2015-11-01,Arizona,Bandera Phoenix East,Papago,2015,11,1
+425105,226,Millennium Post Acute,2015-11-01,South Carolina,Monument Market,Monument Cluster,2015,11,1
+425379,227,Opus Post Acute Rehab,2016-01-01,South Carolina,Monument Market,Monument Cluster,2016,1,1
+425159,228,Rock Hill Post Acute Care Center,2016-01-01,South Carolina,Monument Market,Monument Cluster,2016,1,1
+425391,229,Compass Post Acute Rehab,2016-01-01,South Carolina,Monument Market,Monument Cluster,2016,1,1
+065417,230,HCR Colorado Springs Total,2016-05-24,MidWest,Endura Market,Southern Peaks,2016,5,24
+676081,232,East View Healthcare UPL Total,2016-05-01,Texas,Keystone East,Magnificent 4,2016,5,1
+676194,233,Mason Creek Trans Care of Katy UPL Total,2016-05-01,Texas,Keystone East,Igniters,2016,5,1
+676251,234,Misty Willow Healthcare and Rehab UPL Total,2016-05-01,Texas,Keystone East,Magnificent 4,2016,5,1
+676137,235,Legend Northwest Houston UPL Total,2016-05-01,Texas,Keystone East,Magnificent 4,2016,5,1
+676230,236,Copperfield Health and Rehab UPL Total,2016-05-01,Texas,Keystone East,Magnificent 4,2016,5,1
+676253,237,Legend Ennis UPL Total,2016-05-01,Texas,Keystone North Texas,The Legends,2016,5,1
+676029,238,Westpark Rehab & Living UPL Total,2016-05-01,Texas,Keystone West,Cobra Kai Cluster,2016,5,1
+676048,239,Legend Gladewater UPL Total,2016-05-01,Texas,Keystone East,Dominators,2016,5,1
+676220,240,Granite Mesa UPL Total,2016-05-01,Texas,Keystone North Central,The Alphas,2016,5,1
+675774,241,Legend Greenville UPL Total,2016-05-01,Texas,Keystone North Texas,Catalysts,2016,5,1
+676272,242,Legend Kyle UPL Total,2016-05-01,Texas,Keystone North Central,The Alphas,2016,5,1
+676049,243,Legend Paris UPL Total,2016-05-01,Texas,Keystone North Texas,C3,2016,5,1
+676238,244,Legend North Austin UPL Total,2016-05-01,Texas,Keystone North Central,United,2016,5,1
+676158,245,Sonterra Health Center UPL Total,2016-05-01,Texas,South Central Keystone,Texas Strong,2016,5,1
+676113,246,Legend South San Antonio UPL Total,2016-05-01,Texas,South Central Keystone,Navigators,2016,5,1
+676312,247,Legend West San Antonio UPL Total,2016-05-01,Texas,South Central Keystone,Texas Strong,2016,5,1
+676042,248,McAllen Transitional Care Center,2016-05-01,Texas,South Central Keystone,Los Bandidos,2016,5,1
+676392,249,Legend New Braunfels UPL Total,2016-05-01,Texas,Keystone North Central,The Spartans,2016,5,1
+175555,250,HCR Topeka Total,2016-07-27,MidWest,Emerald Healthcare Market,The Rainmakers Cluster,2016,7,27
+175298,251,Riverbend Total,2016-07-01,MidWest,Emerald Healthcare Market,Royals Cluster,2016,7,1
+676421,252,Legend Waxahachie UPL Total,2017-03-01,Texas,Keystone North Texas,The Legends,2017,3,1
+676413,256,Legend Garland UPL Total,2017-03-01,Texas,Keystone North Texas,Catalysts,2017,3,1
+676426,257,Legend Fort Worth UPL Total,2017-06-01,Texas,Keystone West,Cobra Kai Cluster,2017,6,1
+175558,259,HCR Leawood Total,2016-12-06,MidWest,Emerald Healthcare Market,Royals Cluster,2016,12,6
+675509,262,Parklane Total,2017-01-01,Texas,South Central Keystone,Missions,2017,1,1
+165268,264,Des Moines Rehab,2017-04-01,MidWest,Heartstone Market,Iowa Storm Cluster,2017,4,1
+465003,266,Heritage Park UPL Total,2017-06-01,Summit,Milestone North,Positive Deviants,2017,6,1
+135076,267,Meadow View Nursing and Rehab,2017-05-01,Summit,Pennant Idaho Nevada,Lady Luck Cluster,2017,5,1
+465188,268,Pointe Meadows UPL Total,2017-06-01,Summit,Sunstone Market,Sunstone North Cluster,2017,6,1
+065108,279,The Villas at Sunny Acres Total,2017-07-01,MidWest,Endura Market,Mile High Crush,2017,7,1
+065113,282,Medallion Total,2017-07-01,MidWest,Endura Market,Southern Peaks,2017,7,1
+035068,283,Pueblo Springs Rehab,2017-09-01,Arizona,Bandera Tucson,Sonoran Dogs,2017,9,1
+035164,284,Desert Blossom,2017-09-01,Arizona,Bandera Phoenix East,San Tan,2017,9,1
+035110,288,Sunwest Choice,2018-06-01,Arizona,Bandera Phoenix West,Trident,2018,6,1
+035144,289,Peoria Post Acute and Rehab,2018-04-01,Arizona,Bandera Phoenix West,Mamba Mentality,2018,4,1
+675611,290,The Villages of Dallas Total,2018-05-01,Texas,Keystone North Texas,The Legends,2018,5,1
+135082,292,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018,7,1
+135134,294,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018,11,1
+135125,296,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018,11,1
+175332,301,Rock Creek of Ottawa Total,2018-11-01,MidWest,Emerald Healthcare Market,Royals Cluster,2018,11,1
+465143,303,Cedar Health and Rehab UPL,2019-01-01,Summit,Sunstone Market,Sunstone South Cluster,2019,1,1
+055519,304,Downey Post Acute,2019-03-01,California,Momentum,GOAT,2019,3,1
+035072,306,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019,4,1
+055830,307,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019,5,1
+055570,308,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019,5,1
+555259,309,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019,5,1
+555765,310,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019,5,1
+035171,311,Alta Mesa Health and Rehab Total,2019-05-01,Arizona,Bandera Phoenix East,San Tan,2019,5,1
+035183,312,Rio Vista Post Acute and Rehab Total,2019-05-01,Arizona,Bandera Phoenix West,Trident,2019,5,1
+455672,318,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019,6,1
+555258,319,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019,7,1
+465115,320,The Terrace at Mt. Ogden,2019-08-01,Summit,Milestone North,Positive Deviants,2019,8,1
+135105,321,Temple View Transitional Care Center,2019-09-01,Summit,Pennant Idaho Nevada,Illuminati Cluster,2019,9,1
+035297,322,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019,8,12
+676331,323,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019,11,1
+676250,324,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019,11,1
+675889,325,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019,12,1
+455904,327,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019,12,1
+675579,328,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019,12,1
+675597,330,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019,12,1
+676281,332,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019,11,1
+675933,334,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019,11,1
+455732,335,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019,11,1
+676023,336,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019,11,1
+555875,337,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019,11,1
+035071,339,Mission Palms Post Acute,2019-12-01,Arizona,Bandera Phoenix East,Supersition,2019,12,1
+455969,340,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020,1,1
+065318,343,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020,3,1
+065283,344,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020,3,1
+035106,347,Tempe Post Acute Total,2020-08-01,Arizona,Bandera Phoenix East,San Tan,2020,8,1
+675282,351,The Medical Lodge of Amarillo,2020-11-01,Texas,Keystone West,Relentless Cluster,2020,11,1
+455960,352,Hays Nursing and Rehab Center,2020-12-01,Texas,Keystone North Central,United,2020,12,1
+056182,353,Golden Hill Post Acute,2021-01-01,California,SD United,Top Gun Cluster,2021,1,1
+055689,354,St. Catherine Healthcare,2021-01-01,California,Momentum,GOAT,2021,1,1
+056267,355,Camino Healthcare,2021-01-01,California,Momentum,Alpha,2021,1,1
+455689,356,San Pedro Manor,2021-02-01,Texas,South Central Keystone,Missions,2021,2,1
+676432,357,Cedar Pointe Health and Wellness Center,2021-08-01,Texas,Keystone North Central,The Alphas,2021,8,1
+676459,358,Sedona Trace Health and Wellness Center,2021-08-01,Texas,Keystone North Central,The Spartans,2021,8,1
+065265,359,Berthoud Care and Rehabilitation,2021-04-01,MidWest,Endura Market,Mile High Crush,2021,4,1
+065222,360,Boulder Canyon Health and Rehabilitation,2021-04-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2021,4,1
+065230,361,South Valley Post Acute Rehabilitation,2021-04-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2021,4,1
+675808,362,Windsor Rehabilitation and Healthcare,2021-05-01,Texas,Keystone North Texas,TNT,2021,5,1
+505315,363,Mira Vista Care Center,2021-06-01,Summit,Pennant Washington,PNW,2021,6,1
+505262,364,Shoreline Health and Rehabilitation,2021-06-01,Summit,Pennant Washington,PNW,2021,6,1
+505347,365,The Oaks at Lakewood,2021-06-01,Summit,Pennant Washington,Sasquatch,2021,6,1
+505206,366,The Oaks at Timberline,2021-06-01,Summit,Pennant Washington,Yeti,2021,6,1
