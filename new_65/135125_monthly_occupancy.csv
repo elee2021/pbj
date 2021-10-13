@@ -1,0 +1,27 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2018-11-01,2018,11,0.5642686,0
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2018-12-01,2018,12,0.57368296,1
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-01-01,2019,1,0.5887677,2
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-02-01,2019,2,0.65544707,3
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-03-01,2019,3,0.67718726,4
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-04-01,2019,4,0.73045564,5
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-05-01,2019,5,0.71037364,6
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-06-01,2019,6,0.71366906,7
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-07-01,2019,7,0.68693435,8
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-08-01,2019,8,0.6623346,9
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-09-01,2019,9,0.67242205,10
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-10-01,2019,10,0.72197723,11
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-11-01,2019,11,0.728777,12
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2019-12-01,2019,12,0.7465769,13
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2020-04-01,2020,4,0.70023984,17
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2020-05-01,2020,5,0.74472034,18
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2020-06-01,2020,6,0.7990408,19
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2020-07-01,2020,7,0.8071478,20
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2020-08-01,2020,8,0.692272,21
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2020-09-01,2020,9,0.5618705,22
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2020-10-01,2020,10,0.5372476,23
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2020-11-01,2020,11,0.52733815,24
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2020-12-01,2020,12,0.53330237,25
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2021-01-01,2021,1,0.5790207,26
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2021-02-01,2021,2,0.6736896,27
+135125,296.0,Creekside Transitional Care and Rehab Total,2018-11-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,11.0,1.0,ID,Ada,MERIDIAN,2021-03-01,2021,3,0.6853098,28

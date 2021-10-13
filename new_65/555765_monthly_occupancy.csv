@@ -1,0 +1,21 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2019-05-01,2019,5,0.84964776,0
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2019-06-01,2019,6,0.8055556,1
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2019-07-01,2019,7,0.8112718,2
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2019-08-01,2019,8,0.8112718,3
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2019-09-01,2019,9,0.8078544,4
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2019-10-01,2019,10,0.85261405,5
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2019-11-01,2019,11,0.88850576,6
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2019-12-01,2019,12,0.8950686,7
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2020-04-01,2020,4,0.8651341,11
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2020-05-01,2020,5,0.84927696,12
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2020-06-01,2020,6,0.80402297,13
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2020-07-01,2020,7,0.73025584,14
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2020-08-01,2020,8,0.70300335,15
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2020-09-01,2020,9,0.6846743,16
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2020-10-01,2020,10,0.71449757,17
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2020-11-01,2020,11,0.7241379,18
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2020-12-01,2020,12,0.83351874,19
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2021-01-01,2021,1,0.7836485,20
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2021-02-01,2021,2,0.77955663,21
+555765,310.0,The Hills Post Acute,2019-05-01,California,Momentum,Alpha,2019.0,5.0,1.0,CA,Orange,SANTA ANA,2021-03-01,2021,3,0.7163515,22

@@ -1,0 +1,9 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+035106,347.0,Tempe Post Acute Total,2020-08-01,Arizona,Bandera Phoenix East,San Tan,2020.0,8.0,1.0,AZ,Maricopa,TEMPE,2020-08-01,2020,8,0.6307604,0
+035106,347.0,Tempe Post Acute Total,2020-08-01,Arizona,Bandera Phoenix East,San Tan,2020.0,8.0,1.0,AZ,Maricopa,TEMPE,2020-09-01,2020,9,0.8202381,1
+035106,347.0,Tempe Post Acute Total,2020-08-01,Arizona,Bandera Phoenix East,San Tan,2020.0,8.0,1.0,AZ,Maricopa,TEMPE,2020-10-01,2020,10,0.7718894,2
+035106,347.0,Tempe Post Acute Total,2020-08-01,Arizona,Bandera Phoenix East,San Tan,2020.0,8.0,1.0,AZ,Maricopa,TEMPE,2020-11-01,2020,11,0.7821429,3
+035106,347.0,Tempe Post Acute Total,2020-08-01,Arizona,Bandera Phoenix East,San Tan,2020.0,8.0,1.0,AZ,Maricopa,TEMPE,2020-12-01,2020,12,0.8767281,4
+035106,347.0,Tempe Post Acute Total,2020-08-01,Arizona,Bandera Phoenix East,San Tan,2020.0,8.0,1.0,AZ,Maricopa,TEMPE,2021-01-01,2021,1,0.91820276,5
+035106,347.0,Tempe Post Acute Total,2020-08-01,Arizona,Bandera Phoenix East,San Tan,2020.0,8.0,1.0,AZ,Maricopa,TEMPE,2021-02-01,2021,2,0.9190051,6
+035106,347.0,Tempe Post Acute Total,2020-08-01,Arizona,Bandera Phoenix East,San Tan,2020.0,8.0,1.0,AZ,Maricopa,TEMPE,2021-03-01,2021,3,0.88191247,7

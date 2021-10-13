@@ -1,0 +1,4 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+055689,354.0,St. Catherine Healthcare,2021-01-01,California,Momentum,GOAT,2021.0,1.0,1.0,CA,Orange,FULLERTON,2021-01-01,2021,1,0.66405994,0
+055689,354.0,St. Catherine Healthcare,2021-01-01,California,Momentum,GOAT,2021.0,1.0,1.0,CA,Orange,FULLERTON,2021-02-01,2021,2,0.5952381,1
+055689,354.0,St. Catherine Healthcare,2021-01-01,California,Momentum,GOAT,2021.0,1.0,1.0,CA,Orange,FULLERTON,2021-03-01,2021,3,0.6409254,2

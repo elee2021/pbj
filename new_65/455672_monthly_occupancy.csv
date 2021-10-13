@@ -1,0 +1,20 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2019-06-01,2019,6,0.5605556,0
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2019-07-01,2019,7,0.5483871,1
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2019-08-01,2019,8,0.5747312,2
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2019-09-01,2019,9,0.69666666,3
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2019-10-01,2019,10,0.733871,4
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2019-11-01,2019,11,0.79444444,5
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2019-12-01,2019,12,0.7241936,6
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2020-04-01,2020,4,0.555,10
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2020-05-01,2020,5,0.5048387,11
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2020-06-01,2020,6,0.42777777,12
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2020-07-01,2020,7,0.4903226,13
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2020-08-01,2020,8,0.5844086,14
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2020-09-01,2020,9,0.58055556,15
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2020-10-01,2020,10,0.6231183,16
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2020-11-01,2020,11,0.6988889,17
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2020-12-01,2020,12,0.7037634,18
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2021-01-01,2021,1,0.5833333,19
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2021-02-01,2021,2,0.6559524,20
+455672,318.0,Golden Palms Rehab SNF,2019-06-01,Texas,South Central Keystone,Los Vaqueros,2019.0,6.0,1.0,TX,Cameron,HARLINGEN,2021-03-01,2021,3,0.7327957,21

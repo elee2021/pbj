@@ -1,0 +1,15 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2019-11-01,2019,11,0.78602153,0
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2019-12-01,2019,12,0.7744537,1
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-04-01,2020,4,0.77446234,5
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-05-01,2020,5,0.6940687,6
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-06-01,2020,6,0.6983871,7
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-07-01,2020,7,0.7408949,8
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-08-01,2020,8,0.7458377,9
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-09-01,2020,9,0.71209675,10
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-10-01,2020,10,0.6849636,11
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-11-01,2020,11,0.6873656,12
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-12-01,2020,12,0.69562954,13
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2021-01-01,2021,1,0.7073361,14
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2021-02-01,2021,2,0.7076613,15
+676250,324.0,Pecan Valley Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2021-03-01,2021,3,0.72346514,16

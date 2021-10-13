@@ -1,0 +1,21 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2019-05-01,2019,5,0.81255966,0
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2019-06-01,2019,6,0.8189349,1
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2019-07-01,2019,7,0.8696316,2
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2019-08-01,2019,8,0.8808933,3
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2019-09-01,2019,9,0.890927,4
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2019-10-01,2019,10,0.9127696,5
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2019-11-01,2019,11,0.9023669,6
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2019-12-01,2019,12,0.92899406,7
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2020-04-01,2020,4,0.8414201,11
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2020-05-01,2020,5,0.896736,12
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2020-06-01,2020,6,0.88816565,13
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2020-07-01,2020,7,0.7761023,14
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2020-08-01,2020,8,0.7402176,15
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2020-09-01,2020,9,0.64714,16
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2020-10-01,2020,10,0.70795953,17
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2020-11-01,2020,11,0.731361,18
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2020-12-01,2020,12,0.83012027,19
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2021-01-01,2021,1,0.8570338,20
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2021-02-01,2021,2,0.80008453,21
+555259,309.0,Mainplace Post Acute,2019-05-01,California,Momentum,LTD,2019.0,5.0,1.0,CA,Orange,ORANGE,2021-03-01,2021,3,0.74174464,22

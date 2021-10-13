@@ -1,0 +1,4 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+056267,355.0,Camino Healthcare,2021-01-01,California,Momentum,Alpha,2021.0,1.0,1.0,CA,Los Angeles,HAWTHORNE,2021-01-01,2021,1,0.67318344,0
+056267,355.0,Camino Healthcare,2021-01-01,California,Momentum,Alpha,2021.0,1.0,1.0,CA,Los Angeles,HAWTHORNE,2021-02-01,2021,2,0.6598124,1
+056267,355.0,Camino Healthcare,2021-01-01,California,Momentum,Alpha,2021.0,1.0,1.0,CA,Los Angeles,HAWTHORNE,2021-03-01,2021,3,0.6608016,2

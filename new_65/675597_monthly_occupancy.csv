@@ -1,0 +1,14 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2019-12-01,2019,12,0.997813,0
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2020-04-01,2020,4,0.9700565,4
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2020-05-01,2020,5,0.9857846,5
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2020-06-01,2020,6,0.93333334,6
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2020-07-01,2020,7,0.8901039,7
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2020-08-01,2020,8,0.77528703,8
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2020-09-01,2020,9,0.74067795,9
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2020-10-01,2020,10,0.7479497,10
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2020-11-01,2020,11,0.7824859,11
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2020-12-01,2020,12,0.8305085,12
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2021-01-01,2021,1,0.8430837,13
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2021-02-01,2021,2,0.8898305,14
+675597,330.0,Crestwood Health and Rehab Total,2019-12-01,Texas,Keystone North Texas,TNT,2019.0,12.0,1.0,TX,Van Zandt,WILLS POINT,2021-03-01,2021,3,0.8999453,15

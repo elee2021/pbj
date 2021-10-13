@@ -1,0 +1,4 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+455960,352.0,Hays Nursing and Rehab Center,2020-12-01,Texas,Keystone North Central,United,2020.0,12.0,1.0,TX,Hays,SAN MARCOS,2021-01-01,2021,1,0.36318132,1
+455960,352.0,Hays Nursing and Rehab Center,2020-12-01,Texas,Keystone North Central,United,2020.0,12.0,1.0,TX,Hays,SAN MARCOS,2021-02-01,2021,2,0.44488916,2
+455960,352.0,Hays Nursing and Rehab Center,2020-12-01,Texas,Keystone North Central,United,2020.0,12.0,1.0,TX,Hays,SAN MARCOS,2021-03-01,2021,3,0.54310346,3

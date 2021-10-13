@@ -1,0 +1,13 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-04-01,2020,4,0.7624561,1
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-05-01,2020,5,0.6967742,2
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-06-01,2020,6,0.74561405,3
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-07-01,2020,7,0.7837012,4
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-08-01,2020,8,0.7558574,5
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-09-01,2020,9,0.74,6
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-10-01,2020,10,0.75789475,7
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-11-01,2020,11,0.7922807,8
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-12-01,2020,12,0.8393888,9
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2021-01-01,2021,1,0.8441426,10
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2021-02-01,2021,2,0.84360904,11
+065318,343.0,Irondale Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2021-03-01,2021,3,0.84142613,12

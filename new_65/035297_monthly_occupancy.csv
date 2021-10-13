@@ -1,0 +1,16 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2019-10-01,2019,10,0.03645161,2
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2019-11-01,2019,11,0.13666667,3
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2019-12-01,2019,12,0.25032258,4
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2020-04-01,2020,4,0.54966664,8
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2020-05-01,2020,5,0.6,9
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2020-06-01,2020,6,0.71933335,10
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2020-07-01,2020,7,0.6135484,11
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2020-08-01,2020,8,0.66967744,12
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2020-09-01,2020,9,0.6343333,13
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2020-10-01,2020,10,0.70709676,14
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2020-11-01,2020,11,0.649,15
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2020-12-01,2020,12,0.6312903,16
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2021-01-01,2021,1,0.6525806,17
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2021-02-01,2021,2,0.6560714,18
+035297,322.0,Surprise Total,2019-08-12,Arizona,Bandera Phoenix West,Trident,2019.0,8.0,12.0,AZ,Maricopa,SURPRISE,2021-03-01,2021,3,0.7983871,19

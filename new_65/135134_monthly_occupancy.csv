@@ -1,0 +1,27 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2018-11-01,2018,11,0.38333333,0
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2018-12-01,2018,12,0.37419355,1
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-01-01,2019,1,0.35403225,2
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-02-01,2019,2,0.36964285,3
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-03-01,2019,3,0.39879033,4
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-04-01,2019,4,0.38125,5
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-05-01,2019,5,0.38709676,6
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-06-01,2019,6,0.36666667,7
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-07-01,2019,7,0.3580645,8
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-08-01,2019,8,0.36129034,9
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-09-01,2019,9,0.3725,10
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-10-01,2019,10,0.36451614,11
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-11-01,2019,11,0.3525,12
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2019-12-01,2019,12,0.3358871,13
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2020-04-01,2020,4,0.36958334,17
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2020-05-01,2020,5,0.33306453,18
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2020-06-01,2020,6,0.30583334,19
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2020-07-01,2020,7,0.33306453,20
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2020-08-01,2020,8,0.37943548,21
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2020-09-01,2020,9,0.42625,22
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2020-10-01,2020,10,0.4375,23
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2020-11-01,2020,11,0.43958333,24
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2020-12-01,2020,12,0.37096775,25
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2021-01-01,2021,1,0.35927418,26
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2021-02-01,2021,2,0.42991072,27
+135134,294.0,Bennett Hills Center,2018-11-01,Summit,Pennant Idaho Nevada,Paradigm Cluster,2018.0,11.0,1.0,ID,Gooding,GOODING,2021-03-01,2021,3,0.39314517,28

@@ -1,0 +1,15 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2019-11-01,2019,11,1.0649759,0
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2019-12-01,2019,12,1.0170641,1
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2020-04-01,2020,4,0.85,5
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2020-05-01,2020,5,0.72043014,6
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2020-06-01,2020,6,0.689372,7
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2020-07-01,2020,7,0.62692845,8
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2020-08-01,2020,8,0.6171108,9
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2020-09-01,2020,9,0.5852657,10
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2020-10-01,2020,10,0.6042543,11
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2020-11-01,2020,11,0.62415457,12
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2020-12-01,2020,12,0.5928004,13
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2021-01-01,2021,1,0.6517064,14
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2021-02-01,2021,2,0.66977227,15
+676023,336.0,Keller Oaks Healthcare Center,2019-11-01,Texas,Keystone West,Cobra Kai Cluster,2019.0,11.0,1.0,TX,Tarrant,KELLER,2021-03-01,2021,3,0.6086956,16

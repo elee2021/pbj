@@ -1,0 +1,14 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2019-12-01,2019,12,0.5813783,0
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2020-04-01,2020,4,0.58181816,4
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2020-05-01,2020,5,0.56647116,5
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2020-06-01,2020,6,0.4689394,6
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2020-07-01,2020,7,0.4750733,7
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2020-08-01,2020,8,0.44721407,8
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2020-09-01,2020,9,0.45530304,9
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2020-10-01,2020,10,0.47091886,10
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2020-11-01,2020,11,0.47373736,11
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2020-12-01,2020,12,0.4586999,12
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2021-01-01,2021,1,0.46969697,13
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2021-02-01,2021,2,0.4788961,14
+675889,325.0,Pleasant Manor Health And Rehab,2019-12-01,Texas,Keystone North Texas,The Legends,2019.0,12.0,1.0,TX,Ellis,WAXAHACHIE,2021-03-01,2021,3,0.45210165,15

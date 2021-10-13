@@ -1,0 +1,31 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MC CALL,2018-07-01,2018,7,0.4337469,0
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MC CALL,2018-08-01,2018,8,0.44367245,1
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MC CALL,2018-09-01,2018,9,0.46410257,2
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,BURGDORF,2018-10-01,2018,10,0.46898264,3
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,BURGDORF,2018-11-01,2018,11,0.4348718,4
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,BURGDORF,2018-12-01,2018,12,0.41042185,5
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-01-01,2019,1,0.4248139,6
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-02-01,2019,2,0.42637363,7
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-03-01,2019,3,0.44665012,8
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-04-01,2019,4,0.4353846,9
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-05-01,2019,5,0.44069478,10
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-06-01,2019,6,0.42461538,11
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-07-01,2019,7,0.45905706,12
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-08-01,2019,8,0.4272953,13
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-09-01,2019,9,0.41948718,14
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-10-01,2019,10,0.44119108,15
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-11-01,2019,11,0.42,16
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2019-12-01,2019,12,0.3955335,17
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2020-04-01,2020,4,0.37128204,21
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2020-05-01,2020,5,0.40794045,22
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2020-06-01,2020,6,0.3974359,23
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2020-07-01,2020,7,0.41191068,24
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2020-08-01,2020,8,0.45111662,25
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2020-09-01,2020,9,0.40666667,26
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2020-10-01,2020,10,0.40942928,27
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2020-11-01,2020,11,0.38153845,28
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2020-12-01,2020,12,0.34094292,29
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2021-01-01,2021,1,0.32009926,30
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2021-02-01,2021,2,0.36813188,31
+135082,292.0,McCall Rehab and Care Center,2018-07-01,Summit,Pennant Idaho Nevada,Infinity Cluster,2018.0,7.0,1.0,ID,Valley,MCCALL,2021-03-01,2021,3,0.3776675,32

@@ -1,0 +1,13 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-04-01,2020,4,0.87777776,1
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-05-01,2020,5,0.80184335,2
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-06-01,2020,6,0.82095236,3
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-07-01,2020,7,0.92411673,4
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-08-01,2020,8,0.89615977,5
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-09-01,2020,9,0.8574603,6
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-10-01,2020,10,0.8390169,7
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-11-01,2020,11,0.81460315,8
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2020-12-01,2020,12,0.8248848,9
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2021-01-01,2021,1,0.8248848,10
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2021-02-01,2021,2,0.83809525,11
+065283,344.0,Ridgeview Post Acute,2020-03-01,MidWest,Endura Market,Rocky Mountain A.I.R.,2020.0,3.0,1.0,CO,Adams,COMMERCE CITY,2021-03-01,2021,3,0.82181257,12

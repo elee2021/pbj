@@ -1,0 +1,19 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2019-07-01,2019,7,0.56391877,0
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2019-08-01,2019,8,0.7837515,1
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2019-09-01,2019,9,0.94074076,2
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2019-10-01,2019,10,0.8829152,3
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2019-11-01,2019,11,0.9506173,4
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2019-12-01,2019,12,0.823178,5
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2020-04-01,2020,4,0.8197531,9
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2020-05-01,2020,5,0.79091996,10
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2020-06-01,2020,6,0.8308642,11
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2020-07-01,2020,7,0.8614098,12
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2020-08-01,2020,8,0.86260456,13
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2020-09-01,2020,9,0.82469136,14
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2020-10-01,2020,10,0.8124253,15
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2020-11-01,2020,11,0.75185186,16
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2020-12-01,2020,12,0.7741935,17
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2021-01-01,2021,1,0.8172043,18
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2021-02-01,2021,2,0.9193122,19
+555258,319.0,Valley of the Moon Post Acute,2019-07-01,California,Flagstone No Cal,Northern California,2019.0,7.0,1.0,CA,Sonoma,SONOMA,2021-03-01,2021,3,0.90681005,20

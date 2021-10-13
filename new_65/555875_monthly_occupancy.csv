@@ -1,0 +1,15 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2019-11-01,2019,11,0.8036325,0
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2019-12-01,2019,12,0.82092637,1
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2020-04-01,2020,4,0.8299145,5
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2020-05-01,2020,5,0.8343673,6
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2020-06-01,2020,6,0.8527778,7
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2020-07-01,2020,7,0.8254756,8
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2020-08-01,2020,8,0.6865178,9
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2020-09-01,2020,9,0.67799145,10
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2020-10-01,2020,10,0.67969394,11
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2020-11-01,2020,11,0.673718,12
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2020-12-01,2020,12,0.6945823,13
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2021-01-01,2021,1,0.63047975,14
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2021-02-01,2021,2,0.643315,15
+555875,337.0,Channel Islands Post Acute,2019-11-01,California,NC Islanders,NC Islanders Cluster,2019.0,11.0,1.0,CA,Santa Barbara,SANTA BARBARA,2021-03-01,2021,3,0.64722914,16

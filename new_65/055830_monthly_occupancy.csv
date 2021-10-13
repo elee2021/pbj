@@ -1,0 +1,21 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2019-05-01,2019,5,0.652728,0
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2019-06-01,2019,6,0.7654321,1
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2019-07-01,2019,7,0.7654321,2
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2019-08-01,2019,8,0.7869375,3
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2019-09-01,2019,9,0.7979424,4
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2019-10-01,2019,10,0.76583034,5
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2019-11-01,2019,11,0.76790124,6
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2019-12-01,2019,12,0.786141,7
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2020-04-01,2020,4,0.8312757,11
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2020-05-01,2020,5,0.83592194,12
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2020-06-01,2020,6,0.79341567,13
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2020-07-01,2020,7,0.8562326,14
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2020-08-01,2020,8,0.8466746,15
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2020-09-01,2020,9,0.8962963,16
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2020-10-01,2020,10,0.9139785,17
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2020-11-01,2020,11,0.89958847,18
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2020-12-01,2020,12,0.89765036,19
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2021-01-01,2021,1,0.74910396,20
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2021-02-01,2021,2,0.91534394,21
+055830,307.0,Villa Maria Post Acute,2019-05-01,California,NC Islanders,NC Islanders Cluster,2019.0,5.0,1.0,CA,Santa Barbara,SANTA MARIA,2021-03-01,2021,3,0.86857826,22

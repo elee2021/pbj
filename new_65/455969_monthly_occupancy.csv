@@ -1,0 +1,13 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2020-04-01,2020,4,0.4572072,3
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2020-05-01,2020,5,0.4141238,4
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2020-06-01,2020,6,0.45990992,5
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2020-07-01,2020,7,0.43809938,6
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2020-08-01,2020,8,0.50348735,7
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2020-09-01,2020,9,0.48873875,8
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2020-10-01,2020,10,0.50741065,9
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2020-11-01,2020,11,0.5563063,10
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2020-12-01,2020,12,0.5928509,11
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2021-01-01,2021,1,0.50784653,12
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2021-02-01,2021,2,0.53667957,13
+455969,340.0,The Healthcare Center at Patriot Heights,2020-01-01,Texas,South Central Keystone,Texas Strong,2020.0,1.0,1.0,TX,Bexar,SAN ANTONIO,2021-03-01,2021,3,0.64123803,14

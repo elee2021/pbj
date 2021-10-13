@@ -1,0 +1,15 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2019-11-01,2019,11,0.8726562,0
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2019-12-01,2019,12,0.90221775,1
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-04-01,2020,4,0.85572916,5
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-05-01,2020,5,0.85534275,6
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-06-01,2020,6,0.82734376,7
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-07-01,2020,7,0.69959676,8
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-08-01,2020,8,0.6045867,9
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-09-01,2020,9,0.6177083,10
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-10-01,2020,10,0.70690525,11
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-11-01,2020,11,0.7135417,12
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-12-01,2020,12,0.6895161,13
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2021-01-01,2021,1,0.71622986,14
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2021-02-01,2021,2,0.73995537,15
+676331,323.0,Hunters Pond Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Navigators,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2021-03-01,2021,3,0.65347785,16

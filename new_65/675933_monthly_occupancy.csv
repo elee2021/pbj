@@ -1,0 +1,15 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2019-11-01,2019,11,0.75277776,0
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2019-12-01,2019,12,0.73467743,1
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2020-04-01,2020,4,0.7430556,5
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2020-05-01,2020,5,0.702957,6
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2020-06-01,2020,6,0.7075,7
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2020-07-01,2020,7,0.7233871,8
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2020-08-01,2020,8,0.6392473,9
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2020-09-01,2020,9,0.6244444,10
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2020-10-01,2020,10,0.6072581,11
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2020-11-01,2020,11,0.5833333,12
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2020-12-01,2020,12,0.6032258,13
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2021-01-01,2021,1,0.56774193,14
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2021-02-01,2021,2,0.59880954,15
+675933,334.0,Treasure Hills Health & Rehab,2019-11-01,Texas,South Central Keystone,Los Vaqueros,2019.0,11.0,1.0,TX,Cameron,HARLINGEN,2021-03-01,2021,3,0.66935486,16

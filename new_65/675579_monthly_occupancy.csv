@@ -1,0 +1,14 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2019-12-01,2019,12,0.64974535,0
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2020-04-01,2020,4,0.57666665,4
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2020-05-01,2020,5,0.5886248,5
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2020-06-01,2020,6,0.60175437,6
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2020-07-01,2020,7,0.5860781,7
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2020-08-01,2020,8,0.4516129,8
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2020-09-01,2020,9,0.46561402,9
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2020-10-01,2020,10,0.4682513,10
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2020-11-01,2020,11,0.49526316,11
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2020-12-01,2020,12,0.51918507,12
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2021-01-01,2021,1,0.5417657,13
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2021-02-01,2021,2,0.57857144,14
+675579,328.0,Beacon Harbor Health & Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Rockwall,ROCKWALL,2021-03-01,2021,3,0.60135823,15

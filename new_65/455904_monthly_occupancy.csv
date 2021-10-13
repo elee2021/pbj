@@ -1,0 +1,14 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2019-12-01,2019,12,0.7130418,0
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2020-04-01,2020,4,0.7386503,4
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2020-05-01,2020,5,0.74846625,5
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2020-06-01,2020,6,0.7554192,6
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2020-07-01,2020,7,0.7775579,7
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2020-08-01,2020,8,0.773204,8
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2020-09-01,2020,9,0.7744376,9
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2020-10-01,2020,10,0.75796556,10
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2020-11-01,2020,11,0.78752553,11
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2020-12-01,2020,12,0.74569565,12
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2021-01-01,2021,1,0.7261033,13
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2021-02-01,2021,2,0.72283083,14
+455904,327.0,Rowlett Health And Rehab,2019-12-01,Texas,Keystone North Texas,Catalysts,2019.0,12.0,1.0,TX,Dallas,ROWLETT,2021-03-01,2021,3,0.75618446,15

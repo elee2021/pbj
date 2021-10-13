@@ -1,0 +1,15 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2019-11-01,2019,11,0.8627572,0
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2019-12-01,2019,12,0.8606133,1
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2020-04-01,2020,4,0.76111114,5
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2020-05-01,2020,5,0.72242135,6
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2020-06-01,2020,6,0.7092593,7
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2020-07-01,2020,7,0.567503,8
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2020-08-01,2020,8,0.4966149,9
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2020-09-01,2020,9,0.518107,10
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2020-10-01,2020,10,0.562724,11
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2020-11-01,2020,11,0.56584364,12
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2020-12-01,2020,12,0.51592994,13
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2021-01-01,2021,1,0.5995619,14
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2021-02-01,2021,2,0.5784832,15
+455732,335.0,Kirkwood Manor,2019-11-01,Texas,Keystone North Central,The Spartans,2019.0,11.0,1.0,TX,Comal,NEW BRAUNFELS,2021-03-01,2021,3,0.57427317,16

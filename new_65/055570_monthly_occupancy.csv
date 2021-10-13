@@ -1,0 +1,21 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2019-05-01,2019,5,0.91798794,0
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2019-06-01,2019,6,0.9220339,1
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2019-07-01,2019,7,0.9300164,2
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2019-08-01,2019,8,0.9240022,3
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2019-09-01,2019,9,0.92655367,4
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2019-10-01,2019,10,0.93712413,5
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2019-11-01,2019,11,0.93276834,6
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2019-12-01,2019,12,0.8551121,7
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2020-04-01,2020,4,0.9898305,11
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2020-05-01,2020,5,0.9185347,12
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2020-06-01,2020,6,0.83728814,13
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2020-07-01,2020,7,0.95297974,14
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2020-08-01,2020,8,0.7949699,15
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2020-09-01,2020,9,0.82090396,16
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2020-10-01,2020,10,0.9442318,17
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2020-11-01,2020,11,0.8717514,18
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2020-12-01,2020,12,0.8988518,19
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2021-01-01,2021,1,0.83378893,20
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2021-02-01,2021,2,0.8692494,21
+055570,308.0,St. Elizabeth Health and Rehab,2019-05-01,California,Momentum,GOAT,2019.0,5.0,1.0,CA,Orange,FULLERTON,2021-03-01,2021,3,0.91798794,22

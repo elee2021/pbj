@@ -1,0 +1,4 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+056182,353.0,Golden Hill Post Acute,2021-01-01,California,SD United,Top Gun Cluster,2021.0,1.0,1.0,CA,San Diego,SAN DIEGO,2021-01-01,2021,1,0.7803845,0
+056182,353.0,Golden Hill Post Acute,2021-01-01,California,SD United,Top Gun Cluster,2021.0,1.0,1.0,CA,San Diego,SAN DIEGO,2021-02-01,2021,2,0.8427128,1
+056182,353.0,Golden Hill Post Acute,2021-01-01,California,SD United,Top Gun Cluster,2021.0,1.0,1.0,CA,San Diego,SAN DIEGO,2021-03-01,2021,3,0.75399154,2

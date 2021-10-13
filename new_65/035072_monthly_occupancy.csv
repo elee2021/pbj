@@ -1,0 +1,22 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2019-04-01,2019,4,0.89794874,0
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2019-05-01,2019,5,0.83325064,1
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2019-06-01,2019,6,0.86,2
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2019-07-01,2019,7,0.85905707,3
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2019-08-01,2019,8,0.85260546,4
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2019-09-01,2019,9,0.9166667,5
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2019-10-01,2019,10,0.9091811,6
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2019-11-01,2019,11,0.93410254,7
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2019-12-01,2019,12,0.9052109,8
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2020-04-01,2020,4,0.9187179,12
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2020-05-01,2020,5,0.9305211,13
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2020-06-01,2020,6,0.87948716,14
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2020-07-01,2020,7,0.87171215,15
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2020-08-01,2020,8,0.8215881,16
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2020-09-01,2020,9,0.7828205,17
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2020-10-01,2020,10,0.8133995,18
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2020-11-01,2020,11,0.7897436,19
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2020-12-01,2020,12,0.83225805,20
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2021-01-01,2021,1,0.90868485,21
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2021-02-01,2021,2,0.91483516,22
+035072,306.0,Phoenix Mountain Post Acute,2019-04-01,Arizona,Bandera Phoenix East,Papago,2019.0,4.0,1.0,AZ,Maricopa,PHOENIX,2021-03-01,2021,3,0.86153847,23

@@ -1,0 +1,15 @@
+provnum,facilityid,provname,acquisitiondate,region,market,cluster,acquired_year,acquired_month,acquired_day,state,county_name,city,date,year,month,occupancy,age
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2019-11-01,2019,11,0.6956989,0
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2019-12-01,2019,12,0.72762746,1
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-04-01,2020,4,0.7080645,5
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-05-01,2020,5,0.6758585,6
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-06-01,2020,6,0.64301074,7
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-07-01,2020,7,0.6516649,8
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-08-01,2020,8,0.6436004,9
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-09-01,2020,9,0.66451615,10
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-10-01,2020,10,0.67039543,11
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-11-01,2020,11,0.61290324,12
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2020-12-01,2020,12,0.6633715,13
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2021-01-01,2021,1,0.7055151,14
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2021-02-01,2021,2,0.67569125,15
+676281,332.0,Westover Hills Rehab and Healthcare,2019-11-01,Texas,South Central Keystone,Texas Strong,2019.0,11.0,1.0,TX,Bexar,SAN ANTONIO,2021-03-01,2021,3,0.71123827,16
